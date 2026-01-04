@@ -1,0 +1,15 @@
+{
+  "client_config": {
+    "modpack_version": 1.0,
+    "zip_files": [
+      {
+        "name": "Full.Modpack.zip",
+        "url": "https://github.com/sampdeveloperleo-prog/improved-umbrella/releases/download/v1.0/Full.Modpack.zip"
+      },
+      {
+        "name": "Lone.gta3.zip",
+        "url": "https://github.com/sampdeveloperleo-prog/improved-umbrella/releases/download/v1.0/Lone.gta3.zip"
+      }
+    ]
+  }
+}
